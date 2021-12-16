@@ -1,6 +1,7 @@
 ﻿
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Ricci G](https://github.com/Ricci34)
 - [menoetius](https://github.com/menoetius-the-rash)
 - [syzwina](https://github.com/syzwina)
 - [Tommy Son](https://github.com/TommyMynnSon)
